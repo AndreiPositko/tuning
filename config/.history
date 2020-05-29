@@ -1,0 +1,206 @@
+git checkout "develop"
+git commit -m "fix index"
+git config --global --edit
+git commit -m "index style done"
+git commit -m "base css to all pages has done"
+git add /
+git commit -m "add gitignore"
+git commit -m "homework-1"
+git remote add origin https://github.com/AndreiPositko/online-courses.git
+git commit -m "make page to 'code'"
+cd D:\Positko\Study\Online course\FL12_HW1
+cd D:\Positko\Study\Online course\Релиз
+git clone https://github.com/AndreiPositko/FL-12.git
+git commit -m "HW-1 bug fixing"
+cd D:\Positko\Study\Online course\FL12_HW2
+git remote add origin https://github.com/AndreiPositko/E-course.git
+git commit -m "1st task style.css"
+git commit -m "add styles-7"
+git commit -m "HW-2"
+cd border: 1px solid yellow; /*temporary*/
+git commit -m "add flex to index"
+git push 
+git commit -m "index has done"
+exit\
+git commit -m "gitignore"
+git commit -m "HW-4"
+git commit -m "HW-4 has done"
+git commit -m "HW-4 final version"
+git comment -m "adding some styles to barber-shop"
+git commint -m "adding some styles to barber-shop"
+git commit -m "adding some styles to barber-shop"
+pwd
+cd Downloads
+cd /Downloads
+cd cmder
+cd `
+cd-
+cd ../  
+cd -
+ls ~/Desktop
+cd ~/Desktop
+ls -1 cmder
+start .
+git commit -m "add some style to barber-shop"
+git log --oneline --graph -6
+git log --oneline --graph -3
+git checkout 0075e92ca670b0e6f2244234b6237ec45f0a349d
+git help
+git help -a
+git switch to commit
+git switch
+git checkout master
+git checkout develop
+git log
+git commit -m "add style to barber-shop. Need fix all pages"
+git commit -m "adding some points"
+git commit -m "index styles in process"
+git commit -m "HW-5"
+git commit -m "1st task HW-6"
+eslint
+eslint ./js/task1/js
+eslint --init
+eslint ./js/task1.js
+cd D
+cd Ж
+cd D:/
+npm install -g
+cd D:\Positko\Study\Online course\All\FL12_HW6
+cd D:\Positko\Study\Online course\All\FL12_HW6\homework
+node -v
+$ node -м
+git push -f origin master
+git commit -m "HW-6 final"
+git rm -r FL12_HW6
+git commit -m "some changes"
+git push origin master --force
+git commit -m "HW-6"
+cd D:\Positko\Study\Online course\Релиз\FL-12 
+git commit -m "clear warnings"
+git commit -m "clear all errors"
+git commit -m "styles to index's footer"
+git commit -m "styles to index page has been added"
+git commit -m "add styles to modals"
+git commit -m "additional style to navigation in inner-pages"
+git commit -m "HW-7 bug fixing"
+git commit -m "HW-8"
+cd D:\Positko\Study\Online course\Релиз\FL-12
+cd D:\Positko\Study\Online course\All
+git commit -m"HW-8"
+git push origin master
+git add.
+git commit -m "I add some features to pages"
+git push -f develop origin
+git push -f
+git commit -m "create js-file"
+cd D:\Positko\Study\Practice\HTML Academy\barbershop
+git commit -m "bag fix"
+D:\Positko\Study\Practice\HTML Academy\barbershop-2
+git commit "first commit"
+git remote add origin https://github.com/AndreiPositko/barbershop-adaptive.git
+cd D:\Positko\Study\Practice\HTML Academy\barbershop-2
+cd D:\Positko\Study\Practice\LearnJS
+git remote add origin https://github.com/AndreiPositko/HTML-Task-1.git
+git commit -m "version - 1"
+git commit -m "version-2"
+D:\Positko\Study\Саня практика\practice\task-1
+cd D:\Positko\Study\meleshko\task-1
+cd D:\Positko\Study\meleshko
+git clone https://github.com/AndreiPositko/HTML-Task-1.git
+cd D:\Positko\Study\Саня практика\practice\task-1
+git commit -m "commit from 22.02"
+git commit -m "version with adaptive"
+cd D:\Positko\Study\meleshko\MS_HTML
+git remote add origin https://github.com/AndreiPositko/MS_HTML.git
+git remote add origin https://github.com/AndreiPositko/islamov.git
+cd D:\Positko\Study\islamov\project-2
+git commit -m "project has done"
+git commit -m "proj has done"
+git commit -m "project on bootstrap"
+git commit -m "project-4 has done"
+git commit -m "work commit project-5"
+git commit -m "project-5 has done in work lap top"
+git commit -m "project-6 has done with some questions"
+git commit -m "some changes in tools-item"
+git commit -m "project-6 (book with flex)"
+git commit -m "work commit project book"
+git commit -m "project-6/book - has done"
+git commit -m "project-6/bugfixing"
+git ls-1
+git ls-tree
+git add project-6/
+git commit -m "project-6 has done, project-7 start"
+git add project-7/
+git commit -m "pixel perfect project has done"
+gulp --task
+gulp task
+gulp test
+npm i --save-dev gulp-sass
+gulp server
+clear
+gulp default
+gulp serve
+npm init 
+Y
+npm i -g gulp
+npm init
+npm i --save-dev gulp
+gulp -v
+ls
+npm install browser-sync --save-dev
+npm i
+cd D:\Positko\Study\islamov\project-9\p-9
+cd D:\Positko\Study\islamov\project-8
+npm install --save-dev gulp-clean
+git add project-8/, project-9
+git add project-8/
+git add project-9/
+git commit -m "projects with Gulp"
+cd..
+ls -f
+git commit -m "start new project with gulp"
+git commit -m "start page with form"
+..
+.
+../
+cd ..
+git commit -m "project with js"
+Он не запускается
+что то клинеру не нравится
+git commit -m "modal window has done with jquery"
+git commit -m "section products begin to do"
+git commit -m "start doing section product"
+git commit -m "section-products"
+cd  D:\Positko\Study\islamov\project-9
+git commit -m "animation for checking"
+git commit -m "animation has done"
+git commit -m "section production"
+git commit -m "slaider feedback"
+git commit -m "feedback slider"
+учше
+git commit -m "project-11"
+git commit -m "adaptiv page"
+cd D:\Positko\Study\islamov
+cd D:\Positko\Study\islamov\project-9
+gulp
+D:\Positko\Study\my-site
+git clone https://github.com/AndreiPositko/creative-website.git
+cd D:\Positko\Study\creative-website
+git commit -m "site is ready"
+cd D:\Positko\Study
+git clone D:\Positko\Study
+git clone https://github.com/AndreiPositko/lost-shirt.git
+git status
+git commit -m "section items"
+git push
+cd D:\Positko\Study\lost-shirt
+git pull
+cd D:\Positko\Study\my-site
+git commit -m "first commit"
+git git remote add origin https://github.com/AndreiPositko/site.git
+git remote add origin https://github.com/AndreiPositko/site.git
+git push -u origin master
+exit
+cd C:\MAMP\htdocs\tuning
+git init
+git add .
